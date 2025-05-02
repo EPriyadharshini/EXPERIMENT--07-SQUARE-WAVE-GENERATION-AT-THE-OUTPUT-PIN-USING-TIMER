@@ -114,7 +114,7 @@ HAL_TIM_PWM_Start(&htim2,TIM_CHANNEL_1);
 
 ## Circuit diagram:
 
-![png](https://github.com/rasika1206/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/124434806/895b6749-d873-43cd-a459-a4fec5f96153)
+![image](https://github.com/user-attachments/assets/6c48fde4-9ee0-4617-8846-ff8c6d992b4d)
 
 
 
