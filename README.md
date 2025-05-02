@@ -108,13 +108,83 @@ HAL_TIM_PWM_Start(&htim2,TIM_CHANNEL_1);
 
 
 ## Output screen shots of proteus  :
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 ![image](https://github.com/user-attachments/assets/6b046be7-9ebc-4477-864f-d8c6152656cd)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Circuit diagram:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/6c48fde4-9ee0-4617-8846-ff8c6d992b4d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
