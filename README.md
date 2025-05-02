@@ -109,7 +109,8 @@ HAL_TIM_PWM_Start(&htim2,TIM_CHANNEL_1);
 
 ## Output screen shots of proteus  :
  
-![OUTPUT](https://github.com/rasika1206/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/124434806/f39fd0bb-baa2-4348-8aaf-ffe9d133dfbb)
+![image](https://github.com/user-attachments/assets/6b046be7-9ebc-4477-864f-d8c6152656cd)
+
 
 ## Circuit diagram:
 
